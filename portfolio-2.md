@@ -1,12 +1,12 @@
-# Project 2 - Periodic Table of Cloudinary Transformations
+# Project 2 - Transformation Concentration
 
-<div style="text-align:center;"><img width="400" src="https://res.cloudinary.com/picturecloud7/image/upload/w_400,f_auto,q_auto/capstone/periodic_b73ur2.png" /></div>
+<div style="text-align:center;"><img width="400" src="https://res.cloudinary.com/picturecloud7/image/upload/w_400,f_auto,q_auto/capstone/transformation-concentration.png" /></div>
 
 ## Links
 
 [Code](https://github.com/rebeccapeltz/transformation-concentration)
  
-[Table](https://www.beckypeltz.me/cld-periodic-table/) 
+[Game](https://transformation-concentration.netlify.app/)
 
 ## Description
 I created a memory game, like the old Concentration TV show.  There are 2 pages. On the first page you learn some of the effects by name and visually.  On the second page, you flip over cards 2 at a time trying to match effects.  If you are working with Cloudinary, you need to learn some terminology related to effects.  This learning must involve matching English terminology to visuals that match the terminology.  
