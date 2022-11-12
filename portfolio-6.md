@@ -1,4 +1,4 @@
-# Project 5 - Core Web Vitals
+# Project 6 - Core Web Vitals
 
 <div style="text-align:center;"><img width="400" src="https://res.cloudinary.com/picturecloud7/image/upload/w_400,f_auto,q_auto/capstone/cwv.png" /></div>
 
