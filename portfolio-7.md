@@ -12,7 +12,7 @@
 
 
 ## Description
-I took a course on web design. The main project was to create an education website.  My topic is accessiblity which is an important part of [Universal Design for Learning](https://udlguidelines.cast.org/).  I tried to follow Accessbility guidelines in buildint this site.  There is a video that walk you throught the website.
+I took a course on web design. The main project was to create an education website.  The subject matter of my website is accessiblity which is an important part of [Universal Design for Learning](https://udlguidelines.cast.org/).  I tried to follow Accessbility guidelines in building this site. I also share information to help designer appreciate the need for following accessibility guidelines.  There is a video that walks you through the website.
 
 ## Tools/Technology 
 The website was created using HTML5 and CSS3.  This video was recorded using Snagit, edited with Camtasia, and served on YouTube.

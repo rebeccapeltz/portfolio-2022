@@ -1,17 +1,16 @@
-# Project 2 - Periodic Table of Cloudinary Transformations
+# Project 1 - Periodic Table of Cloudinary Transformations
 
 <div style="text-align:center;"><img width="400" src="https://res.cloudinary.com/picturecloud7/image/upload/w_400,f_auto,q_auto/capstone/periodic_b73ur2.png" /></div>
 
 ## Links
 
-[Code](https://github.com/rebeccapeltz/transformation-concentration)
+[Code](https://github.com/rebeccapeltz/cld-periodic-table)
  
 [Table](https://www.beckypeltz.me/cld-periodic-table/) 
 
 ## Description
-I created a memory game, like the old Concentration TV show.  There are 2 pages. On the first page you learn some of the effects by name and visually.  On the second page, you flip over cards 2 at a time trying to match effects.  If you are working with Cloudinary, you need to learn some terminology related to effects.  This learning must involve matching English terminology to visuals that match the terminology.  
-By making a memory game, the player can feel a sense of accomplishment by looking at how many tries it took to complete the game.   
-I could go further with this and provide a way for the player to share on social media, the way that Wordle scores can be easily shared on Twitter.   I could also, allow for more effect transformations to be introduced.  
+Cloudinary allows you to manipulate the size of features of your images and video using transformations.  You can use 
+transformations to crop, compress, enhance, and add filters to your media.  There are many options and this periodic table representation of transformations is an attempt to organize them.  You can click on a transformation "element" to take you into the documentation to learn more about the transformation.  I categorize mhy work on this as building a teach aid. 
 
 ## Tools/Technology 
 This application is built using React.js.
